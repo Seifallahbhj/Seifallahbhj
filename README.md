@@ -28,11 +28,11 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Seifallahbhj&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Seifallahbhj&theme=radical&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Seifallahbhj&icon=0&color=0" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Seifallahbhj&color=blue" alt="Profile Views" />
 </p>
